@@ -2,7 +2,7 @@
 
 ## About:
 
-This is a small CLI utility written in python to conveniently download evening news segments from the ARD (largest German public broadcasting network) news archive.
+This is a small CLI utility written in python 3.9 to conveniently download evening news segments from the ARD (largest German public broadcasting network) news archive.
 
 ## Requirements:
 
